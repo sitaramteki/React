@@ -1,2 +1,2 @@
-# sfdc
-Local Practice for SFDC
+# React
+React Practice
